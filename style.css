@@ -13,6 +13,7 @@ footer{position: center;}
 
 
 
+
 .image-circle {
     border-radius:50%; 
 }
@@ -23,6 +24,7 @@ border-width:2px;
 .image-circle{
   border-color: #003049;
 }
+
 
 
 
@@ -49,6 +51,7 @@ article div {
 p {
   line-height: 1.5;
 }
+ul{list-style-position:inside;}
 
 /* The div container constrains the content width within the main container to 600px */
 div {
@@ -70,3 +73,4 @@ hr {
 
 img{border-radius:2px;}
 }
+
